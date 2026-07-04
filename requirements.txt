@@ -1,0 +1,11 @@
+faker
+factory-boy
+numpy
+pandas
+sqlalchemy
+psycopg[binary]
+python-dotenv
+dbt-postgres
+great-expectations
+streamlit
+plotly
